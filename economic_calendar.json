@@ -1,23 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-09-30T20:57:01.341914+00:00",
+  "updated": "2026-09-30T21:22:37.127138+00:00",
   "count": 134,
-  "currencies": [
-    "USD",
-    "EUR",
-    "GBP",
-    "JPY",
-    "CHF",
-    "CAD",
-    "AUD",
-    "NZD"
-  ],
-  "impacts": [
-    "High",
-    "Medium",
-    "Low"
-  ],
   "events": [
     {
       "id": null,
@@ -46,7 +31,7 @@
       "forecast": "3.6%",
       "previous": "3.6%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -226,7 +211,7 @@
       "forecast": "4.6%",
       "previous": "4.3%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -616,7 +601,7 @@
       "forecast": "0.5%",
       "previous": "1.0%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -631,7 +616,7 @@
       "forecast": "4.1%",
       "previous": "3.5%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -646,7 +631,7 @@
       "forecast": "0.3%",
       "previous": "0.5%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -781,7 +766,7 @@
       "forecast": "0.5%",
       "previous": "0.2%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -811,7 +796,7 @@
       "forecast": "-0.5%",
       "previous": "0.7%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -856,7 +841,7 @@
       "forecast": "0.2%",
       "previous": "0.5%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -976,7 +961,7 @@
       "forecast": "-116.3B",
       "previous": "-118.8B",
       "direction": "Unknown",
-      "indicator_direction": "Lower",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1201,7 +1186,7 @@
       "forecast": "25",
       "previous": "22",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1216,7 +1201,7 @@
       "forecast": "36",
       "previous": "37",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1246,7 +1231,7 @@
       "forecast": "2.00B",
       "previous": "1.92B",
       "direction": "Unknown",
-      "indicator_direction": "Lower",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1306,7 +1291,7 @@
       "forecast": "0.0%",
       "previous": "0.4%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1711,7 +1696,7 @@
       "forecast": "72.9",
       "previous": "71.1",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1846,7 +1831,7 @@
       "forecast": "2.4%",
       "previous": "1.8%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1921,7 +1906,7 @@
       "forecast": "2.5%",
       "previous": "2.4%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -1936,7 +1921,7 @@
       "forecast": "3.7%",
       "previous": "3.3%",
       "direction": "Unknown",
-      "indicator_direction": "Higher",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
