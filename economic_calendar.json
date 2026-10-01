@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-01T23:35:53.233392+00:00",
+  "updated": "2026-10-01T23:49:29.046318+00:00",
   "count": 134,
   "events": [
     {
@@ -1806,9 +1806,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-01T18:45:00-04:00",
+      "date": "2026-10-01T19:20:00-04:00",
       "time": "",
-      "datetime": "2026-10-01T18:45:00-04:00",
+      "datetime": "2026-10-01T19:20:00-04:00",
       "currency": "USD",
       "impact": "Low",
       "title": "FOMC Member Logan Speaks",
