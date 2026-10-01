@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-01T09:39:17.734480+00:00",
+  "updated": "2026-10-01T09:56:01.523610+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -571,16 +571,8 @@
           "strength": "Unknown"
         },
         {
-          "title": "Unemployment Rate",
-          "datetime": "2026-10-01T05:00:00-04:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Lower",
-          "strength": "Unknown"
-        },
-        {
           "title": "Spanish 10-y Bond Auction",
-          "datetime": "2026-10-01T05:03:00-04:00",
+          "datetime": "2026-10-01T04:42:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -588,10 +580,18 @@
         },
         {
           "title": "French 10-y Bond Auction",
-          "datetime": "2026-10-01T05:18:00-04:00",
+          "datetime": "2026-10-01T04:57:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Unemployment Rate",
+          "datetime": "2026-10-01T05:00:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Lower",
           "strength": "Unknown"
         },
         {

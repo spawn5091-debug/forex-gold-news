@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-01T09:39:17.682423+00:00",
+  "updated": "2026-10-01T09:56:01.471055+00:00",
   "count": 134,
   "events": [
     {
@@ -1446,24 +1446,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-01T05:00:00-04:00",
+      "date": "2026-10-01T04:42:00-04:00",
       "time": "",
-      "datetime": "2026-10-01T05:00:00-04:00",
-      "currency": "EUR",
-      "impact": "Low",
-      "title": "Unemployment Rate",
-      "actual": "",
-      "forecast": "6.4%",
-      "previous": "6.4%",
-      "direction": "Unknown",
-      "indicator_direction": "Lower",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-10-01T05:03:00-04:00",
-      "time": "",
-      "datetime": "2026-10-01T05:03:00-04:00",
+      "datetime": "2026-10-01T04:42:00-04:00",
       "currency": "EUR",
       "impact": "Low",
       "title": "Spanish 10-y Bond Auction",
@@ -1476,9 +1461,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-01T05:18:00-04:00",
+      "date": "2026-10-01T04:57:00-04:00",
       "time": "",
-      "datetime": "2026-10-01T05:18:00-04:00",
+      "datetime": "2026-10-01T04:57:00-04:00",
       "currency": "EUR",
       "impact": "Low",
       "title": "French 10-y Bond Auction",
@@ -1487,6 +1472,21 @@
       "previous": "4.23|2.3",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-10-01T05:00:00-04:00",
+      "time": "",
+      "datetime": "2026-10-01T05:00:00-04:00",
+      "currency": "EUR",
+      "impact": "Low",
+      "title": "Unemployment Rate",
+      "actual": "",
+      "forecast": "6.4%",
+      "previous": "6.4%",
+      "direction": "Unknown",
+      "indicator_direction": "Lower",
       "strength": "Unknown"
     },
     {
