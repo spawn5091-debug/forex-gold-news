@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-02T16:26:42.947051+00:00",
+  "updated": "2026-10-02T16:45:56.295461+00:00",
   "count": 135,
   "events": [
     {
@@ -2001,9 +2001,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-02T12:00:00-04:00",
+      "date": "2026-10-02T13:00:00-04:00",
       "time": "",
-      "datetime": "2026-10-02T12:00:00-04:00",
+      "datetime": "2026-10-02T13:00:00-04:00",
       "currency": "USD",
       "impact": "Low",
       "title": "FOMC Member Goolsbee Speaks",

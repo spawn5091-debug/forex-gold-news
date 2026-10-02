@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-02T16:26:43.000525+00:00",
+  "updated": "2026-10-02T16:45:56.360036+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -411,7 +411,7 @@
         },
         {
           "title": "FOMC Member Goolsbee Speaks",
-          "datetime": "2026-10-02T12:00:00-04:00",
+          "datetime": "2026-10-02T13:00:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
