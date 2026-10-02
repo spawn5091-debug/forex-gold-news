@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-02T14:40:06.842344+00:00",
+  "updated": "2026-10-02T14:57:37.023894+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 69,
+      "unknown_score": 70,
       "events": [
         {
           "title": "FOMC Member Bowman Speaks",
@@ -404,6 +404,14 @@
         {
           "title": "FOMC Member Logan Speaks",
           "datetime": "2026-10-02T10:00:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Goolsbee Speaks",
+          "datetime": "2026-10-02T12:00:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
