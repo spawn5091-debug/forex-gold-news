@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-06T15:35:12.712387+00:00",
+  "updated": "2026-10-06T15:52:56.245338+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -682,7 +682,7 @@
         },
         {
           "title": "GDT Price Index",
-          "datetime": "2026-10-06T10:50:00-04:00",
+          "datetime": "2026-10-06T11:50:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
