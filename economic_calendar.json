@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-06T08:38:09.165209+00:00",
+  "updated": "2026-10-06T08:55:11.415786+00:00",
   "count": 77,
   "events": [
     {
@@ -371,10 +371,10 @@
       "datetime": "2026-10-06T04:30:00-04:00",
       "currency": "GBP",
       "impact": "Low",
-      "title": "MPC Member Mann Speaks",
+      "title": "Housing Equity Withdrawal q/q",
       "actual": "",
-      "forecast": "",
-      "previous": "",
+      "forecast": "-11.9B",
+      "previous": "-12.6B",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
@@ -386,10 +386,10 @@
       "datetime": "2026-10-06T04:30:00-04:00",
       "currency": "GBP",
       "impact": "Low",
-      "title": "Housing Equity Withdrawal q/q",
+      "title": "MPC Member Mann Speaks",
       "actual": "",
-      "forecast": "-11.9B",
-      "previous": "-12.6B",
+      "forecast": "",
+      "previous": "",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
