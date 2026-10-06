@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-06T13:25:34.478039+00:00",
+  "updated": "2026-10-06T13:44:02.454218+00:00",
   "count": 77,
   "events": [
     {
@@ -658,7 +658,7 @@
       "impact": "Low",
       "title": "Crude Oil Inventories",
       "actual": "",
-      "forecast": "",
+      "forecast": "2.1M",
       "previous": "0.9M",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
