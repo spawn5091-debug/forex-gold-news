@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-06T14:39:56.038814+00:00",
+  "updated": "2026-10-06T14:57:44.053009+00:00",
   "count": 77,
   "events": [
     {
@@ -486,9 +486,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-06T10:10:00-04:00",
+      "date": "2026-10-06T10:01:00-04:00",
       "time": "",
-      "datetime": "2026-10-06T10:10:00-04:00",
+      "datetime": "2026-10-06T10:01:00-04:00",
       "currency": "USD",
       "impact": "Low",
       "title": "RCM/TIPP Economic Optimism",

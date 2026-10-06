@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-06T14:39:56.102281+00:00",
+  "updated": "2026-10-06T14:57:44.115872+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -51,7 +51,7 @@
         },
         {
           "title": "RCM/TIPP Economic Optimism",
-          "datetime": "2026-10-06T10:10:00-04:00",
+          "datetime": "2026-10-06T10:01:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
