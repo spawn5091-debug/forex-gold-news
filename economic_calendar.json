@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-06T19:36:16.308310+00:00",
+  "updated": "2026-10-06T19:51:12.533082+00:00",
   "count": 77,
   "events": [
     {
@@ -583,7 +583,7 @@
       "impact": "Low",
       "title": "Leading Indicators",
       "actual": "",
-      "forecast": "118.3%",
+      "forecast": "118.1%",
       "previous": "117.9%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -613,7 +613,7 @@
       "impact": "Low",
       "title": "Lloyds HPI m/m",
       "actual": "",
-      "forecast": "0.2%",
+      "forecast": "0.0%",
       "previous": "-0.2%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
