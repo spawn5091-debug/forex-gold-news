@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-06T12:26:44.512115+00:00",
+  "updated": "2026-10-06T12:49:01.983620+00:00",
   "count": 77,
   "events": [
     {
@@ -411,6 +411,21 @@
     },
     {
       "id": null,
+      "date": "2026-10-06T08:14:00-04:00",
+      "time": "",
+      "datetime": "2026-10-06T08:14:00-04:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "ADP Weekly Employment Change",
+      "actual": "",
+      "forecast": "",
+      "previous": "20.0K",
+      "direction": "Unknown",
+      "indicator_direction": "Higher",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-10-06T08:15:00-04:00",
       "time": "",
       "datetime": "2026-10-06T08:15:00-04:00",
@@ -419,22 +434,7 @@
       "title": "ADP Weekly Employment Change",
       "actual": "",
       "forecast": "",
-      "previous": "",
-      "direction": "Unknown",
-      "indicator_direction": "Higher",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-10-06T08:16:00-04:00",
-      "time": "",
-      "datetime": "2026-10-06T08:16:00-04:00",
-      "currency": "USD",
-      "impact": "Low",
-      "title": "ADP Weekly Employment Change",
-      "actual": "",
-      "forecast": "",
-      "previous": "20.0K",
+      "previous": "22.5K",
       "direction": "Unknown",
       "indicator_direction": "Higher",
       "strength": "Unknown"
