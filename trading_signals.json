@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-07T03:41:25.566792+00:00",
+  "updated": "2026-10-07T03:57:58.073827+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 29,
+      "unknown_score": 31,
       "events": [
         {
           "title": "Final Services PMI",
@@ -85,6 +85,14 @@
           "title": "Crude Oil Inventories",
           "datetime": "2026-10-07T10:30:00-04:00",
           "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "President Trump Speaks",
+          "datetime": "2026-10-07T13:00:00-04:00",
+          "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
