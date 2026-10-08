@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-08T00:25:55.670128+00:00",
+  "updated": "2026-10-08T00:52:22.312736+00:00",
   "count": 78,
   "events": [
     {
@@ -861,6 +861,21 @@
     },
     {
       "id": null,
+      "date": "2026-10-08T05:00:00-04:00",
+      "time": "",
+      "datetime": "2026-10-08T05:00:00-04:00",
+      "currency": "GBP",
+      "impact": "Low",
+      "title": "MPC Member Pill Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-10-08T05:15:00-04:00",
       "time": "",
       "datetime": "2026-10-08T05:15:00-04:00",
@@ -882,21 +897,6 @@
       "currency": "EUR",
       "impact": "Low",
       "title": "Eurogroup Meetings",
-      "actual": "",
-      "forecast": "",
-      "previous": "",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-10-08T06:30:00-04:00",
-      "time": "",
-      "datetime": "2026-10-08T06:30:00-04:00",
-      "currency": "GBP",
-      "impact": "Low",
-      "title": "MPC Member Pill Speaks",
       "actual": "",
       "forecast": "",
       "previous": "",

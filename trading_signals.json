@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-08T00:25:55.733531+00:00",
+  "updated": "2026-10-08T00:52:22.377459+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -420,16 +420,16 @@
           "strength": "Unknown"
         },
         {
-          "title": "MPC Member Greene Speaks",
-          "datetime": "2026-10-08T05:15:00-04:00",
+          "title": "MPC Member Pill Speaks",
+          "datetime": "2026-10-08T05:00:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "MPC Member Pill Speaks",
-          "datetime": "2026-10-08T06:30:00-04:00",
+          "title": "MPC Member Greene Speaks",
+          "datetime": "2026-10-08T05:15:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
