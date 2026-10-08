@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-08T17:42:58.610828+00:00",
+  "updated": "2026-10-08T17:59:28.422957+00:00",
   "count": 78,
   "events": [
     {
@@ -1108,7 +1108,7 @@
       "impact": "High",
       "title": "Employment Change",
       "actual": "",
-      "forecast": "6.3K",
+      "forecast": "6.1K",
       "previous": "-41.7K",
       "direction": "Unknown",
       "indicator_direction": "Higher",
