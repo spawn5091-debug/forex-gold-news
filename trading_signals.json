@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-12T20:40:48.703868+00:00",
+  "updated": "2026-10-12T20:59:48.106656+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -393,7 +393,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 28,
+      "unknown_score": 27,
       "events": [
         {
           "title": "MPC Member Breeden Speaks",
@@ -422,14 +422,6 @@
         {
           "title": "MPC Member Greene Speaks",
           "datetime": "2026-10-12T23:00:00-04:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "MPC Member Dhingra Speaks",
-          "datetime": "2026-10-13T12:00:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

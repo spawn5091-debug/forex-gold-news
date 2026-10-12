@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-12T20:40:48.657831+00:00",
-  "count": 94,
+  "updated": "2026-10-12T20:59:48.051041+00:00",
+  "count": 93,
   "events": [
     {
       "id": null,
@@ -178,7 +178,7 @@
       "impact": "Low",
       "title": "NFIB Small Business Index",
       "actual": "",
-      "forecast": "98.0",
+      "forecast": "98.1",
       "previous": "98.7",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -225,21 +225,6 @@
       "actual": "",
       "forecast": "",
       "previous": "0.5%",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-10-13T12:00:00-04:00",
-      "time": "",
-      "datetime": "2026-10-13T12:00:00-04:00",
-      "currency": "GBP",
-      "impact": "Low",
-      "title": "MPC Member Dhingra Speaks",
-      "actual": "",
-      "forecast": "",
-      "previous": "",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
