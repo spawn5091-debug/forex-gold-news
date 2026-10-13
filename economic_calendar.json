@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-13T09:39:46.375913+00:00",
-  "count": 93,
+  "updated": "2026-10-13T09:59:01.728964+00:00",
+  "count": 95,
   "events": [
     {
       "id": null,
@@ -432,6 +432,21 @@
       "currency": "USD",
       "impact": "Low",
       "title": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-10-14T06:15:00-04:00",
+      "time": "",
+      "datetime": "2026-10-14T06:15:00-04:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "EU Economic Summit",
       "actual": "",
       "forecast": "",
       "previous": "",
@@ -887,6 +902,21 @@
       "previous": "-0.1%",
       "direction": "Unknown",
       "indicator_direction": "Higher",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-10-15T06:15:00-04:00",
+      "time": "",
+      "datetime": "2026-10-15T06:15:00-04:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "EU Economic Summit",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {

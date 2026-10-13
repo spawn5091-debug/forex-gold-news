@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-13T09:39:46.441338+00:00",
+  "updated": "2026-10-13T09:59:01.785904+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -280,7 +280,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 15,
+      "unknown_score": 19,
       "events": [
         {
           "title": "German Final CPI m/m",
@@ -323,6 +323,14 @@
           "strength": "Unknown"
         },
         {
+          "title": "EU Economic Summit",
+          "datetime": "2026-10-14T06:15:00-04:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
           "title": "French Final CPI m/m",
           "datetime": "2026-10-15T02:45:00-04:00",
           "impact": "Low",
@@ -336,6 +344,14 @@
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "EU Economic Summit",
+          "datetime": "2026-10-15T06:15:00-04:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
