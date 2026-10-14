@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-14T07:48:11.212952+00:00",
+  "updated": "2026-10-14T13:07:12.146892+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -324,7 +324,7 @@
         },
         {
           "title": "German 30-y Bond Auction",
-          "datetime": "2026-10-14T05:34:00-04:00",
+          "datetime": "2026-10-14T05:38:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
