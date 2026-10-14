@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-14T00:09:32.374666+00:00",
+  "updated": "2026-10-14T00:52:05.497612+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 53,
+      "unknown_score": 54,
       "events": [
         {
           "title": "FOMC Member Hammack Speaks",
@@ -116,6 +116,14 @@
         {
           "title": "Beige Book",
           "datetime": "2026-10-14T14:00:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Goolsbee Speaks",
+          "datetime": "2026-10-14T15:00:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

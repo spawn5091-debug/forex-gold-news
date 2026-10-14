@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-14T00:09:32.311487+00:00",
-  "count": 95,
+  "updated": "2026-10-14T00:52:05.428592+00:00",
+  "count": 96,
   "events": [
     {
       "id": null,
@@ -567,6 +567,21 @@
       "currency": "USD",
       "impact": "Low",
       "title": "Beige Book",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-10-14T15:00:00-04:00",
+      "time": "",
+      "datetime": "2026-10-14T15:00:00-04:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "FOMC Member Goolsbee Speaks",
       "actual": "",
       "forecast": "",
       "previous": "",
