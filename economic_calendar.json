@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-14T02:19:32.672016+00:00",
+  "updated": "2026-10-14T07:48:11.146644+00:00",
   "count": 96,
   "events": [
     {
@@ -1318,7 +1318,7 @@
       "impact": "Low",
       "title": "Foreign Securities Purchases",
       "actual": "",
-      "forecast": "",
+      "forecast": "23.59B",
       "previous": "20.65B",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
