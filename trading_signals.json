@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-15T04:26:57.688017+00:00",
+  "updated": "2026-10-15T09:18:10.598761+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -793,7 +793,7 @@
         },
         {
           "title": "RBA Annual Report",
-          "datetime": "2026-10-15T00:25:00-04:00",
+          "datetime": "2026-10-15T00:30:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

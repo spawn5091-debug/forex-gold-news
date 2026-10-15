@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-15T04:26:57.635933+00:00",
+  "updated": "2026-10-15T09:18:10.536242+00:00",
   "count": 96,
   "events": [
     {
@@ -681,9 +681,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-15T00:25:00-04:00",
+      "date": "2026-10-15T00:30:00-04:00",
       "time": "",
-      "datetime": "2026-10-15T00:25:00-04:00",
+      "datetime": "2026-10-15T00:30:00-04:00",
       "currency": "AUD",
       "impact": "Low",
       "title": "RBA Annual Report",
