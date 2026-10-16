@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-16T15:36:11.731557+00:00",
+  "updated": "2026-10-16T19:00:22.507086+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -267,7 +267,7 @@
         },
         {
           "title": "Federal Budget Balance",
-          "datetime": "2026-10-16T14:00:00-04:00",
+          "datetime": "2026-10-16T14:05:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

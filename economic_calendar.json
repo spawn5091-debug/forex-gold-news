@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-16T15:36:11.681563+00:00",
+  "updated": "2026-10-16T19:00:22.434896+00:00",
   "count": 96,
   "events": [
     {
@@ -1371,9 +1371,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-16T14:00:00-04:00",
+      "date": "2026-10-16T14:05:00-04:00",
       "time": "",
-      "datetime": "2026-10-16T14:00:00-04:00",
+      "datetime": "2026-10-16T14:05:00-04:00",
       "currency": "USD",
       "impact": "Low",
       "title": "Federal Budget Balance",
