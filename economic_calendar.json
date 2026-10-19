@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-19T13:39:35.459613+00:00",
+  "updated": "2026-10-19T19:29:17.151935+00:00",
   "count": 72,
   "events": [
     {
@@ -358,7 +358,7 @@
       "impact": "Low",
       "title": "Pending Home Sales m/m",
       "actual": "",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "0.3%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -433,7 +433,7 @@
       "impact": "Low",
       "title": "Trade Balance",
       "actual": "",
-      "forecast": "-0.21T",
+      "forecast": "-0.26T",
       "previous": "-0.84T",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
