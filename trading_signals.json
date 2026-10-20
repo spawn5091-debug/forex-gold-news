@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-20T06:39:15.235680+00:00",
+  "updated": "2026-10-20T12:12:18.579425+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -285,7 +285,7 @@
         },
         {
           "title": "10-y Bond Auction",
-          "datetime": "2026-10-20T05:33:00-04:00",
+          "datetime": "2026-10-20T05:03:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
