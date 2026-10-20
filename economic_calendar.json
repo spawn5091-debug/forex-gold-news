@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-20T12:12:18.524572+00:00",
+  "updated": "2026-10-20T17:10:01.899787+00:00",
   "count": 72,
   "events": [
     {
@@ -366,9 +366,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-20T10:50:00-04:00",
+      "date": "2026-10-20T11:19:00-04:00",
       "time": "",
-      "datetime": "2026-10-20T10:50:00-04:00",
+      "datetime": "2026-10-20T11:19:00-04:00",
       "currency": "NZD",
       "impact": "Low",
       "title": "GDT Price Index",
