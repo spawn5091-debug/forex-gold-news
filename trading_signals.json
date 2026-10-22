@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-22T07:17:20.632928+00:00",
+  "updated": "2026-10-22T13:02:07.123763+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -520,15 +520,7 @@
         },
         {
           "title": "IPPI m/m",
-          "datetime": "2026-10-22T08:30:00-04:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "NHPI m/m",
-          "datetime": "2026-10-22T08:30:00-04:00",
+          "datetime": "2026-10-22T08:38:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -536,7 +528,15 @@
         },
         {
           "title": "RMPI m/m",
-          "datetime": "2026-10-22T08:30:00-04:00",
+          "datetime": "2026-10-22T08:38:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "NHPI m/m",
+          "datetime": "2026-10-22T08:59:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
