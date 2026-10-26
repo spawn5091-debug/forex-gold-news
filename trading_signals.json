@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-26T06:56:33.527547+00:00",
+  "updated": "2026-10-26T13:57:59.797635+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -680,7 +680,7 @@
         },
         {
           "title": "Gov Council Member Vincent Speaks",
-          "datetime": "2026-10-29T10:50:00-04:00",
+          "datetime": "2026-10-29T11:59:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
