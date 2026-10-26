@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-26T19:48:39.413630+00:00",
+  "updated": "2026-10-26T23:23:48.280131+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -315,14 +315,6 @@
           "strength": "Unknown"
         },
         {
-          "title": "German Prelim CPI m/m",
-          "datetime": "2026-10-30T02:29:00-04:00",
-          "impact": "Medium",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
           "title": "French Consumer Spending m/m",
           "datetime": "2026-10-30T02:30:00-04:00",
           "impact": "Low",
@@ -342,6 +334,14 @@
           "title": "German Import Prices m/m",
           "datetime": "2026-10-30T03:00:00-04:00",
           "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "German Prelim CPI m/m",
+          "datetime": "2026-10-30T03:29:00-04:00",
+          "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
