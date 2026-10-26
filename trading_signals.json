@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-26T13:57:59.797635+00:00",
+  "updated": "2026-10-26T19:48:39.413630+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -644,7 +644,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 15,
+      "unknown_score": 16,
       "events": [
         {
           "title": "BOC Monetary Policy Report",
@@ -679,8 +679,16 @@
           "strength": "Unknown"
         },
         {
+          "title": "Gov Council Member Gravelle Speaks",
+          "datetime": "2026-10-29T08:50:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
           "title": "Gov Council Member Vincent Speaks",
-          "datetime": "2026-10-29T11:59:00-04:00",
+          "datetime": "2026-10-29T11:30:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
