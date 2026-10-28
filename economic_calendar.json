@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-10-28T08:26:42.983831+00:00",
+  "updated": "2026-10-28T15:20:06.295755+00:00",
   "count": 93,
   "events": [
     {
@@ -411,9 +411,9 @@
     },
     {
       "id": null,
-      "date": "2026-10-28T05:42:00-04:00",
+      "date": "2026-10-28T06:32:00-04:00",
       "time": "",
-      "datetime": "2026-10-28T05:42:00-04:00",
+      "datetime": "2026-10-28T06:32:00-04:00",
       "currency": "EUR",
       "impact": "Low",
       "title": "German 10-y Bond Auction",
