@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-30T14:35:10.133151+00:00",
+  "updated": "2026-10-30T19:40:15.555882+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 40,
+      "unknown_score": 41,
       "events": [
         {
           "title": "ADP Weekly Employment Change",
@@ -212,6 +212,14 @@
         {
           "title": "FOMC Member Musalem Speaks",
           "datetime": "2026-10-30T12:30:00-04:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Logan Speaks",
+          "datetime": "2026-10-30T13:30:00-04:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
