@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-10-30T01:50:48.227086+00:00",
+  "updated": "2026-10-30T07:45:58.461783+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -565,8 +565,16 @@
           "strength": "Unknown"
         },
         {
+          "title": "BOJ Outlook Report",
+          "datetime": "2026-10-29T23:02:00-04:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
           "title": "BOJ Policy Rate",
-          "datetime": "2026-10-29T22:30:00-04:00",
+          "datetime": "2026-10-29T23:02:00-04:00",
           "impact": "High",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -574,15 +582,7 @@
         },
         {
           "title": "Monetary Policy Statement",
-          "datetime": "2026-10-29T22:30:00-04:00",
-          "impact": "High",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "BOJ Outlook Report",
-          "datetime": "2026-10-29T22:31:00-04:00",
+          "datetime": "2026-10-29T23:02:00-04:00",
           "impact": "High",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -598,7 +598,7 @@
         },
         {
           "title": "BOJ Press Conference",
-          "datetime": "2026-10-30T01:30:00-04:00",
+          "datetime": "2026-10-30T02:30:00-04:00",
           "impact": "High",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
