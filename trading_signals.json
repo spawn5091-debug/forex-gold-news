@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-01T22:31:44.820976+00:00",
+  "updated": "2026-11-02T01:45:29.457429+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -805,7 +805,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 19,
+      "unknown_score": 18,
       "events": [
         {
           "title": "MI Inflation Gauge m/m",
@@ -818,14 +818,6 @@
         {
           "title": "Building Approvals m/m",
           "datetime": "2026-11-01T19:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "ANZ Job Advertisements m/m",
-          "datetime": "2026-11-01T19:45:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

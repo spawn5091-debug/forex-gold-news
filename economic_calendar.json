@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-01T22:31:44.758968+00:00",
-  "count": 111,
+  "updated": "2026-11-02T01:45:29.395219+00:00",
+  "count": 110,
   "events": [
     {
       "id": null,
@@ -47,21 +47,6 @@
       "previous": "53.3",
       "direction": "Unknown",
       "indicator_direction": "Higher",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-11-01T19:45:00-05:00",
-      "time": "",
-      "datetime": "2026-11-01T19:45:00-05:00",
-      "currency": "AUD",
-      "impact": "Low",
-      "title": "ANZ Job Advertisements m/m",
-      "actual": "",
-      "forecast": "",
-      "previous": "2.2%",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
       "strength": "Unknown"
     },
     {
@@ -268,7 +253,7 @@
       "impact": "Medium",
       "title": "ISM Manufacturing PMI",
       "actual": "",
-      "forecast": "54.7",
+      "forecast": "54.5",
       "previous": "54.5",
       "direction": "Unknown",
       "indicator_direction": "Higher",
@@ -283,7 +268,7 @@
       "impact": "Low",
       "title": "Construction Spending m/m",
       "actual": "",
-      "forecast": "0.3%",
+      "forecast": "0.4%",
       "previous": "0.9%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
