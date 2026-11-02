@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-02T01:45:29.457429+00:00",
+  "updated": "2026-11-02T08:22:28.748742+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -663,7 +663,7 @@
       "events": [
         {
           "title": "Retail Sales y/y",
-          "datetime": "2026-11-02T02:30:00-05:00",
+          "datetime": "2026-11-02T02:33:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
