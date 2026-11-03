@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-03T07:58:06.556644+00:00",
+  "updated": "2026-11-03T16:00:24.430744+00:00",
   "count": 110,
   "events": [
     {
@@ -411,9 +411,24 @@
     },
     {
       "id": null,
-      "date": "2026-11-03T05:33:00-05:00",
+      "date": "2026-11-03T04:00:00-05:00",
       "time": "",
-      "datetime": "2026-11-03T05:33:00-05:00",
+      "datetime": "2026-11-03T04:00:00-05:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "RCM/TIPP Economic Optimism",
+      "actual": "",
+      "forecast": "46.2",
+      "previous": "46.8",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-03T05:02:00-05:00",
+      "time": "",
+      "datetime": "2026-11-03T05:02:00-05:00",
       "currency": "GBP",
       "impact": "Low",
       "title": "10-y Bond Auction",
@@ -456,21 +471,6 @@
     },
     {
       "id": null,
-      "date": "2026-11-03T10:10:00-05:00",
-      "time": "",
-      "datetime": "2026-11-03T10:10:00-05:00",
-      "currency": "USD",
-      "impact": "Low",
-      "title": "RCM/TIPP Economic Optimism",
-      "actual": "",
-      "forecast": "46.2",
-      "previous": "46.8",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
       "date": "2026-11-03T10:15:00-05:00",
       "time": "",
       "datetime": "2026-11-03T10:15:00-05:00",
@@ -501,9 +501,9 @@
     },
     {
       "id": null,
-      "date": "2026-11-03T10:50:00-05:00",
+      "date": "2026-11-03T10:27:00-05:00",
       "time": "",
-      "datetime": "2026-11-03T10:50:00-05:00",
+      "datetime": "2026-11-03T10:27:00-05:00",
       "currency": "NZD",
       "impact": "Low",
       "title": "GDT Price Index",
@@ -868,7 +868,7 @@
       "impact": "Low",
       "title": "Crude Oil Inventories",
       "actual": "",
-      "forecast": "",
+      "forecast": "-0.1M",
       "previous": "-1.9M",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
