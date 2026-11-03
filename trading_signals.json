@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-02T18:36:59.285233+00:00",
+  "updated": "2026-11-03T01:14:41.940293+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -43,7 +43,7 @@
         },
         {
           "title": "Loan Officer Survey",
-          "datetime": "2026-11-02T14:03:00-05:00",
+          "datetime": "2026-11-02T14:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
