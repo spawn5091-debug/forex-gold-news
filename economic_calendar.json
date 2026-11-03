@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-03T16:00:24.430744+00:00",
+  "updated": "2026-11-03T21:40:54.245051+00:00",
   "count": 110,
   "events": [
     {
@@ -531,9 +531,9 @@
     },
     {
       "id": null,
-      "date": "2026-11-03T12:00:00-05:00",
+      "date": "2026-11-03T13:00:00-05:00",
       "time": "",
-      "datetime": "2026-11-03T12:00:00-05:00",
+      "datetime": "2026-11-03T13:00:00-05:00",
       "currency": "EUR",
       "impact": "Low",
       "title": "German Buba President Nagel Speaks",
