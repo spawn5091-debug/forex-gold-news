@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-03T21:40:54.245051+00:00",
+  "updated": "2026-11-04T01:40:06.030587+00:00",
   "count": 110,
   "events": [
     {
@@ -868,7 +868,7 @@
       "impact": "Low",
       "title": "Crude Oil Inventories",
       "actual": "",
-      "forecast": "-0.1M",
+      "forecast": "-1.7M",
       "previous": "-1.9M",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -1258,7 +1258,7 @@
       "impact": "Low",
       "title": "Natural Gas Storage",
       "actual": "",
-      "forecast": "",
+      "forecast": "81B",
       "previous": "80B",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
