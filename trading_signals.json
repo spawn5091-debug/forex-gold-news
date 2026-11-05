@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-05T08:53:13.599725+00:00",
+  "updated": "2026-11-05T16:59:30.412213+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -435,16 +435,8 @@
           "strength": "Unknown"
         },
         {
-          "title": "PPI m/m",
-          "datetime": "2026-11-05T05:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
           "title": "Spanish 10-y Bond Auction",
-          "datetime": "2026-11-05T05:03:00-05:00",
+          "datetime": "2026-11-05T04:39:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -452,7 +444,15 @@
         },
         {
           "title": "French 10-y Bond Auction",
-          "datetime": "2026-11-05T05:18:00-05:00",
+          "datetime": "2026-11-05T04:55:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "PPI m/m",
+          "datetime": "2026-11-05T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
