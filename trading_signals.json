@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-06T09:57:20.250894+00:00",
+  "updated": "2026-11-06T17:15:15.770516+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 46,
+      "unknown_score": 47,
       "events": [
         {
           "title": "Final Manufacturing PMI",
@@ -252,6 +252,14 @@
         {
           "title": "FOMC Member Bowman Speaks",
           "datetime": "2026-11-06T12:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Daly Speaks",
+          "datetime": "2026-11-06T13:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

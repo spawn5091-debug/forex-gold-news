@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-06T09:57:20.190094+00:00",
-  "count": 110,
+  "updated": "2026-11-06T17:15:15.719982+00:00",
+  "count": 111,
   "events": [
     {
       "id": null,
@@ -1617,6 +1617,21 @@
       "currency": "USD",
       "impact": "Low",
       "title": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-06T13:00:00-05:00",
+      "time": "",
+      "datetime": "2026-11-06T13:00:00-05:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "FOMC Member Daly Speaks",
       "actual": "",
       "forecast": "",
       "previous": "",
