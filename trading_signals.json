@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-09T10:34:22.486866+00:00",
+  "updated": "2026-11-09T21:01:57.242975+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -155,7 +155,7 @@
         },
         {
           "title": "FOMC Member Hammack Speaks",
-          "datetime": "2026-11-12T09:00:00-05:00",
+          "datetime": "2026-11-12T08:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -187,7 +187,7 @@
         },
         {
           "title": "FOMC Member Goolsbee Speaks",
-          "datetime": "2026-11-12T11:30:00-05:00",
+          "datetime": "2026-11-12T11:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -304,7 +304,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 18,
+      "unknown_score": 21,
       "events": [
         {
           "title": "German Trade Balance",
@@ -348,7 +348,7 @@
         },
         {
           "title": "German Buba President Nagel Speaks",
-          "datetime": "2026-11-11T03:20:00-05:00",
+          "datetime": "2026-11-11T03:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -360,6 +360,14 @@
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "ECB President Lagarde Speaks",
+          "datetime": "2026-11-11T04:45:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
@@ -381,6 +389,14 @@
         {
           "title": "EU Economic Forecasts",
           "datetime": "2026-11-12T05:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "German Buba President Nagel Speaks",
+          "datetime": "2026-11-12T12:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
