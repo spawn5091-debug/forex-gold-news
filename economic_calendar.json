@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-10T11:33:27.247590+00:00",
+  "updated": "2026-11-10T18:47:42.826944+00:00",
   "count": 94,
   "events": [
     {
@@ -336,6 +336,21 @@
     },
     {
       "id": null,
+      "date": "2026-11-10T05:02:00-05:00",
+      "time": "",
+      "datetime": "2026-11-10T05:02:00-05:00",
+      "currency": "GBP",
+      "impact": "Low",
+      "title": "30-y Bond Auction",
+      "actual": "",
+      "forecast": "",
+      "previous": "5.52|3.8",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-11-10T06:00:00-05:00",
       "time": "",
       "datetime": "2026-11-10T06:00:00-05:00",
@@ -345,21 +360,6 @@
       "actual": "",
       "forecast": "98.0",
       "previous": "97.9",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-11-10T06:32:00-05:00",
-      "time": "",
-      "datetime": "2026-11-10T06:32:00-05:00",
-      "currency": "GBP",
-      "impact": "Low",
-      "title": "30-y Bond Auction",
-      "actual": "",
-      "forecast": "",
-      "previous": "5.52|3.8",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
@@ -381,6 +381,21 @@
     },
     {
       "id": null,
+      "date": "2026-11-10T08:14:00-05:00",
+      "time": "",
+      "datetime": "2026-11-10T08:14:00-05:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "ADP Weekly Employment Change",
+      "actual": "",
+      "forecast": "",
+      "previous": "16.8K",
+      "direction": "Unknown",
+      "indicator_direction": "Higher",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-11-10T08:15:00-05:00",
       "time": "",
       "datetime": "2026-11-10T08:15:00-05:00",
@@ -389,22 +404,7 @@
       "title": "ADP Weekly Employment Change",
       "actual": "",
       "forecast": "",
-      "previous": "",
-      "direction": "Unknown",
-      "indicator_direction": "Higher",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-11-10T08:16:00-05:00",
-      "time": "",
-      "datetime": "2026-11-10T08:16:00-05:00",
-      "currency": "USD",
-      "impact": "Low",
-      "title": "ADP Weekly Employment Change",
-      "actual": "",
-      "forecast": "",
-      "previous": "16.8K",
+      "previous": "19.5K",
       "direction": "Unknown",
       "indicator_direction": "Higher",
       "strength": "Unknown"

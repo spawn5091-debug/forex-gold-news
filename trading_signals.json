@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-10T11:33:27.308870+00:00",
+  "updated": "2026-11-10T18:47:42.885055+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -59,7 +59,7 @@
         },
         {
           "title": "ADP Weekly Employment Change",
-          "datetime": "2026-11-10T08:15:00-05:00",
+          "datetime": "2026-11-10T08:14:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
@@ -67,7 +67,7 @@
         },
         {
           "title": "ADP Weekly Employment Change",
-          "datetime": "2026-11-10T08:16:00-05:00",
+          "datetime": "2026-11-10T08:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
@@ -493,7 +493,7 @@
         },
         {
           "title": "30-y Bond Auction",
-          "datetime": "2026-11-10T06:32:00-05:00",
+          "datetime": "2026-11-10T05:02:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
