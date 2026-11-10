@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-09T21:01:57.242975+00:00",
+  "updated": "2026-11-10T03:26:23.940220+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -387,14 +387,6 @@
           "strength": "Unknown"
         },
         {
-          "title": "EU Economic Forecasts",
-          "datetime": "2026-11-12T05:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
           "title": "German Buba President Nagel Speaks",
           "datetime": "2026-11-12T12:30:00-05:00",
           "impact": "Low",
@@ -453,6 +445,14 @@
         {
           "title": "Trade Balance",
           "datetime": "2026-11-13T05:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "German Buba President Nagel Speaks",
+          "datetime": "2026-11-13T11:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
