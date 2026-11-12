@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-12T07:45:19.346575+00:00",
+  "updated": "2026-11-12T16:19:33.028150+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -179,7 +179,7 @@
         },
         {
           "title": "Mortgage Delinquencies",
-          "datetime": "2026-11-12T10:00:00-05:00",
+          "datetime": "2026-11-12T11:14:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
