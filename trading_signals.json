@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-13T17:38:32.887987+00:00",
+  "updated": "2026-11-13T22:52:22.379174+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 46,
+      "unknown_score": 47,
       "events": [
         {
           "title": "FOMC Member Bowman Speaks",
@@ -284,6 +284,14 @@
         {
           "title": "FOMC Member Daly Speaks",
           "datetime": "2026-11-13T12:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Financial Stability Report",
+          "datetime": "2026-11-13T16:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

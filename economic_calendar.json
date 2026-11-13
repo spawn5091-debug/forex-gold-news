@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-13T17:38:32.836215+00:00",
-  "count": 94,
+  "updated": "2026-11-13T22:52:22.315270+00:00",
+  "count": 95,
   "events": [
     {
       "id": null,
@@ -1377,6 +1377,21 @@
       "currency": "USD",
       "impact": "Low",
       "title": "FOMC Member Daly Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-13T16:00:00-05:00",
+      "time": "",
+      "datetime": "2026-11-13T16:00:00-05:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "FOMC Financial Stability Report",
       "actual": "",
       "forecast": "",
       "previous": "",
