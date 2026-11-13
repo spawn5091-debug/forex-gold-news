@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-13T10:01:31.961757+00:00",
-  "count": 95,
+  "updated": "2026-11-13T17:38:32.836215+00:00",
+  "count": 94,
   "events": [
     {
       "id": null,
@@ -1320,21 +1320,6 @@
       "actual": "",
       "forecast": "",
       "previous": "",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-11-13T10:15:00-05:00",
-      "time": "",
-      "datetime": "2026-11-13T10:15:00-05:00",
-      "currency": "USD",
-      "impact": "Low",
-      "title": "Mortgage Delinquencies",
-      "actual": "",
-      "forecast": "",
-      "previous": "4.37%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
