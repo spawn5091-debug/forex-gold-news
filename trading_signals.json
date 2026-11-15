@@ -1,225 +1,25 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-15T00:16:51.715012+00:00",
+  "updated": "2026-11-15T06:47:21.257362+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 47,
+      "unknown_score": 54,
       "events": [
         {
-          "title": "FOMC Member Bowman Speaks",
-          "datetime": "2026-11-09T08:40:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Final Wholesale Inventories m/m",
-          "datetime": "2026-11-09T10:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Goolsbee Speaks",
-          "datetime": "2026-11-09T10:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Barkin Speaks",
-          "datetime": "2026-11-09T12:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Waller Speaks",
-          "datetime": "2026-11-10T04:00:00-05:00",
-          "impact": "Medium",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "NFIB Small Business Index",
-          "datetime": "2026-11-10T06:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "ADP Weekly Employment Change",
-          "datetime": "2026-11-10T08:14:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "ADP Weekly Employment Change",
-          "datetime": "2026-11-10T08:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Core CPI m/m",
-          "datetime": "2026-11-10T08:30:00-05:00",
-          "impact": "High",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "CPI m/m",
-          "datetime": "2026-11-10T08:30:00-05:00",
-          "impact": "High",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Logan Speaks",
-          "datetime": "2026-11-10T10:50:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "10-y Bond Auction",
-          "datetime": "2026-11-10T13:01:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Schmid Speaks",
-          "datetime": "2026-11-10T13:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Bowman Speaks",
-          "datetime": "2026-11-10T15:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "API Weekly Statistical Bulletin",
-          "datetime": "2026-11-10T16:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Bowman Speaks",
-          "datetime": "2026-11-10T18:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Paulson Speaks",
-          "datetime": "2026-11-10T18:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Unemployment Claims",
-          "datetime": "2026-11-12T08:30:00-05:00",
-          "impact": "Medium",
-          "direction": "Unknown",
-          "indicator_direction": "Lower",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Hammack Speaks",
-          "datetime": "2026-11-12T08:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Existing Home Sales",
-          "datetime": "2026-11-12T10:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
           "title": "FOMC Member Barr Speaks",
-          "datetime": "2026-11-12T10:00:00-05:00",
+          "datetime": "2026-11-16T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Member Goolsbee Speaks",
-          "datetime": "2026-11-12T11:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Crude Oil Inventories",
-          "datetime": "2026-11-12T12:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "30-y Bond Auction",
-          "datetime": "2026-11-12T13:01:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Daly Speaks",
-          "datetime": "2026-11-12T13:10:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Schmid Speaks",
-          "datetime": "2026-11-12T13:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Federal Budget Balance",
-          "datetime": "2026-11-12T14:00:00-05:00",
+          "title": "Empire State Manufacturing Index",
+          "datetime": "2026-11-16T08:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -227,39 +27,239 @@
         },
         {
           "title": "FOMC Member Williams Speaks",
-          "datetime": "2026-11-12T18:30:00-05:00",
+          "datetime": "2026-11-16T09:05:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Core PPI m/m",
-          "datetime": "2026-11-13T08:30:00-05:00",
-          "impact": "High",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "PPI m/m",
-          "datetime": "2026-11-13T08:30:00-05:00",
-          "impact": "High",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "FOMC Member Collins Speaks",
-          "datetime": "2026-11-13T09:10:00-05:00",
+          "title": "Cleveland Fed Inflation Expectations",
+          "datetime": "2026-11-16T09:48:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Member Logan Speaks",
-          "datetime": "2026-11-13T09:40:00-05:00",
+          "title": "Fed Chairman Warsh Speaks",
+          "datetime": "2026-11-16T12:00:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Musalem Speaks",
+          "datetime": "2026-11-17T07:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "ADP Weekly Employment Change",
+          "datetime": "2026-11-17T08:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Core Retail Sales m/m",
+          "datetime": "2026-11-17T08:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Retail Sales m/m",
+          "datetime": "2026-11-17T08:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Import Prices m/m",
+          "datetime": "2026-11-17T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Waller Speaks",
+          "datetime": "2026-11-17T09:10:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Capacity Utilization Rate",
+          "datetime": "2026-11-17T09:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Industrial Production m/m",
+          "datetime": "2026-11-17T09:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Hammack Speaks",
+          "datetime": "2026-11-17T09:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Business Inventories m/m",
+          "datetime": "2026-11-17T10:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "NAHB Housing Market Index",
+          "datetime": "2026-11-17T10:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Williams Speaks",
+          "datetime": "2026-11-17T14:25:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "API Weekly Statistical Bulletin",
+          "datetime": "2026-11-17T16:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Building Permits",
+          "datetime": "2026-11-18T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Housing Starts",
+          "datetime": "2026-11-18T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Pending Home Sales m/m",
+          "datetime": "2026-11-18T10:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Crude Oil Inventories",
+          "datetime": "2026-11-18T10:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Barr Speaks",
+          "datetime": "2026-11-18T13:35:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Meeting Minutes",
+          "datetime": "2026-11-18T14:00:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Williams Speaks",
+          "datetime": "2026-11-18T14:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "TIC Long-Term Purchases",
+          "datetime": "2026-11-18T16:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Kashkari Speaks",
+          "datetime": "2026-11-18T16:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Philly Fed Manufacturing Index",
+          "datetime": "2026-11-19T08:30:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Unemployment Claims",
+          "datetime": "2026-11-19T08:30:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Lower",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Hammack Speaks",
+          "datetime": "2026-11-19T08:50:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "CB Leading Index m/m",
+          "datetime": "2026-11-19T10:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Mortgage Delinquencies",
+          "datetime": "2026-11-19T10:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -267,39 +267,71 @@
         },
         {
           "title": "Natural Gas Storage",
-          "datetime": "2026-11-13T10:30:00-05:00",
+          "datetime": "2026-11-19T10:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Member Bowman Speaks",
-          "datetime": "2026-11-13T10:50:00-05:00",
+          "title": "FOMC Member Goolsbee Speaks",
+          "datetime": "2026-11-19T12:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Member Daly Speaks",
-          "datetime": "2026-11-13T12:00:00-05:00",
+          "title": "FOMC Member Barr Speaks",
+          "datetime": "2026-11-19T14:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Financial Stability Report",
-          "datetime": "2026-11-13T16:00:00-05:00",
+          "title": "FOMC Member Barkin Speaks",
+          "datetime": "2026-11-19T16:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "FOMC Member Jefferson Speaks",
-          "datetime": "2026-11-13T19:00:00-05:00",
+          "title": "FOMC Member Paulson Speaks",
+          "datetime": "2026-11-19T18:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Waller Speaks",
+          "datetime": "2026-11-20T08:25:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Revised UoM Consumer Sentiment",
+          "datetime": "2026-11-20T10:00:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Revised UoM Inflation Expectations",
+          "datetime": "2026-11-20T10:00:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Cook Speaks",
+          "datetime": "2026-11-20T12:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -312,83 +344,35 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 21,
+      "unknown_score": 20,
       "events": [
         {
-          "title": "German Trade Balance",
-          "datetime": "2026-11-09T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Sentix Investor Confidence",
-          "datetime": "2026-11-09T04:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "ECOFIN Meetings",
-          "datetime": "2026-11-09T05:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Eurogroup Meetings",
-          "datetime": "2026-11-09T05:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "German Final CPI m/m",
-          "datetime": "2026-11-11T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "German Buba President Nagel Speaks",
-          "datetime": "2026-11-11T03:15:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Italian Industrial Production m/m",
-          "datetime": "2026-11-11T04:00:00-05:00",
+          "title": "Industrial Production m/m",
+          "datetime": "2026-11-16T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Higher",
           "strength": "Unknown"
         },
         {
-          "title": "ECB President Lagarde Speaks",
-          "datetime": "2026-11-11T04:45:00-05:00",
-          "impact": "Medium",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "German 30-y Bond Auction",
-          "datetime": "2026-11-11T05:35:00-05:00",
+          "title": "EU Economic Forecasts",
+          "datetime": "2026-11-17T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "ECB Economic Bulletin",
-          "datetime": "2026-11-12T04:00:00-05:00",
+          "title": "ZEW Economic Sentiment",
+          "datetime": "2026-11-17T05:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "German ZEW Economic Sentiment",
+          "datetime": "2026-11-17T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -396,7 +380,31 @@
         },
         {
           "title": "German Buba President Nagel Speaks",
-          "datetime": "2026-11-12T12:30:00-05:00",
+          "datetime": "2026-11-17T21:45:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "ECB Financial Stability Review",
+          "datetime": "2026-11-18T04:00:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Final Core CPI y/y",
+          "datetime": "2026-11-18T05:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Final CPI y/y",
+          "datetime": "2026-11-18T05:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -404,66 +412,66 @@
         },
         {
           "title": "ECB President Lagarde Speaks",
-          "datetime": "2026-11-12T14:30:00-05:00",
+          "datetime": "2026-11-18T09:25:00-05:00",
           "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "German WPI m/m",
-          "datetime": "2026-11-13T02:00:00-05:00",
+          "title": "Current Account",
+          "datetime": "2026-11-19T04:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "French Final CPI m/m",
-          "datetime": "2026-11-13T02:45:00-05:00",
+          "title": "German Buba Monthly Report",
+          "datetime": "2026-11-19T06:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Italian Trade Balance",
-          "datetime": "2026-11-13T04:00:00-05:00",
+          "title": "ECB President Lagarde Speaks",
+          "datetime": "2026-11-19T08:30:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "German PPI m/m",
+          "datetime": "2026-11-20T02:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Flash Employment Change q/q",
-          "datetime": "2026-11-13T05:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Flash GDP q/q",
-          "datetime": "2026-11-13T05:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Trade Balance",
-          "datetime": "2026-11-13T05:00:00-05:00",
-          "impact": "Low",
+          "title": "ECB President Lagarde Speaks",
+          "datetime": "2026-11-20T03:15:00-05:00",
+          "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
           "title": "German Buba President Nagel Speaks",
-          "datetime": "2026-11-13T11:00:00-05:00",
+          "datetime": "2026-11-20T08:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Consumer Confidence",
+          "datetime": "2026-11-20T10:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
           "strength": "Unknown"
         }
       ]
@@ -473,139 +481,139 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 21,
+      "unknown_score": 25,
       "events": [
         {
-          "title": "BOE Gov Bailey Speaks",
-          "datetime": "2026-11-09T12:25:00-05:00",
+          "title": "Rightmove HPI m/m",
+          "datetime": "2026-11-15T19:01:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Average Earnings Index 3m/y",
+          "datetime": "2026-11-17T02:00:00-05:00",
           "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "BRC Retail Sales Monitor y/y",
-          "datetime": "2026-11-09T19:01:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "MPC Member Breeden Speaks",
-          "datetime": "2026-11-10T03:30:00-05:00",
+          "title": "Claimant Count Change",
+          "datetime": "2026-11-17T02:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "30-y Bond Auction",
-          "datetime": "2026-11-10T05:02:00-05:00",
+          "title": "Unemployment Rate",
+          "datetime": "2026-11-17T02:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
-          "indicator_direction": "Neutral",
+          "indicator_direction": "Lower",
           "strength": "Unknown"
         },
         {
-          "title": "MPC Member Lombardelli Speaks",
-          "datetime": "2026-11-10T07:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "MPC Member Pill Speaks",
-          "datetime": "2026-11-10T13:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "RICS House Price Balance",
-          "datetime": "2026-11-11T19:01:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "GDP m/m",
-          "datetime": "2026-11-12T02:00:00-05:00",
+          "title": "CPI y/y",
+          "datetime": "2026-11-18T02:00:00-05:00",
           "impact": "High",
           "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Core CPI y/y",
+          "datetime": "2026-11-18T02:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "PPI Input m/m",
+          "datetime": "2026-11-18T02:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "PPI Output m/m",
+          "datetime": "2026-11-18T02:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "RPI y/y",
+          "datetime": "2026-11-18T02:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "BOE Gov Bailey Speaks",
+          "datetime": "2026-11-18T02:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "HPI y/y",
+          "datetime": "2026-11-18T04:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "BOE Gov Bailey Speaks",
+          "datetime": "2026-11-18T10:00:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "CBI Industrial Order Expectations",
+          "datetime": "2026-11-19T06:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "MPC Member Dhingra Speaks",
+          "datetime": "2026-11-19T07:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "GfK Consumer Confidence",
+          "datetime": "2026-11-19T19:01:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
           "indicator_direction": "Higher",
           "strength": "Unknown"
         },
         {
-          "title": "Prelim GDP q/q",
-          "datetime": "2026-11-12T02:00:00-05:00",
+          "title": "Retail Sales m/m",
+          "datetime": "2026-11-20T02:00:00-05:00",
           "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Higher",
           "strength": "Unknown"
         },
         {
-          "title": "Construction Output m/m",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Goods Trade Balance",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Index of Services 3m/3m",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Industrial Production m/m",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Higher",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Manufacturing Production m/m",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Prelim Business Investment q/q",
-          "datetime": "2026-11-12T02:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "CB Leading Index m/m",
-          "datetime": "2026-11-13T09:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "MPC Member Greene Speaks",
-          "datetime": "2026-11-14T06:00:00-05:00",
+          "title": "Public Sector Net Borrowing",
+          "datetime": "2026-11-20T02:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -618,83 +626,59 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 10,
+      "unknown_score": 7,
       "events": [
         {
-          "title": "Leading Indicators",
-          "datetime": "2026-11-09T00:00:00-05:00",
+          "title": "Prelim GDP Price Index y/y",
+          "datetime": "2026-11-15T18:50:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Prelim GDP q/q",
+          "datetime": "2026-11-15T18:50:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Revised Industrial Production m/m",
+          "datetime": "2026-11-15T23:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Tertiary Industry Activity m/m",
+          "datetime": "2026-11-16T23:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Household Spending y/y",
-          "datetime": "2026-11-09T18:30:00-05:00",
+          "title": "Trade Balance",
+          "datetime": "2026-11-17T18:50:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Bank Lending y/y",
-          "datetime": "2026-11-09T18:50:00-05:00",
+          "title": "Core Machinery Orders m/m",
+          "datetime": "2026-11-18T18:50:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "BOJ Summary of Opinions",
-          "datetime": "2026-11-09T18:50:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Current Account",
-          "datetime": "2026-11-09T18:50:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "30-y Bond Auction",
-          "datetime": "2026-11-09T22:35:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Economy Watchers Sentiment",
-          "datetime": "2026-11-10T00:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "M2 Money Stock y/y",
-          "datetime": "2026-11-10T18:50:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "Prelim Machine Tool Orders y/y",
-          "datetime": "2026-11-11T01:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "PPI y/y",
-          "datetime": "2026-11-11T18:50:00-05:00",
+          "title": "National Core CPI y/y",
+          "datetime": "2026-11-19T18:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -707,55 +691,118 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 1,
-      "events": [
-        {
-          "title": "PPI m/m",
-          "datetime": "2026-11-13T02:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        }
-      ]
+      "unknown_score": 0,
+      "events": []
     },
     "CAD": {
       "currency": "CAD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 4,
+      "unknown_score": 20,
       "events": [
         {
-          "title": "BOC Summary of Deliberations",
-          "datetime": "2026-11-10T13:30:00-05:00",
+          "title": "CPI m/m",
+          "datetime": "2026-11-16T08:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Median CPI y/y",
+          "datetime": "2026-11-16T08:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Trimmed CPI y/y",
+          "datetime": "2026-11-16T08:30:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Common CPI y/y",
+          "datetime": "2026-11-16T08:30:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Core CPI m/m",
+          "datetime": "2026-11-16T08:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Building Permits m/m",
-          "datetime": "2026-11-12T08:30:00-05:00",
+          "title": "Housing Starts",
+          "datetime": "2026-11-17T08:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Manufacturing Sales m/m",
-          "datetime": "2026-11-13T08:30:00-05:00",
+          "title": "Foreign Securities Purchases",
+          "datetime": "2026-11-17T08:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Wholesale Sales m/m",
-          "datetime": "2026-11-13T08:30:00-05:00",
+          "title": "NHPI m/m",
+          "datetime": "2026-11-18T08:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Gov Council Member Gravelle Speaks",
+          "datetime": "2026-11-18T12:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "IPPI m/m",
+          "datetime": "2026-11-19T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "RMPI m/m",
+          "datetime": "2026-11-19T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Core Retail Sales m/m",
+          "datetime": "2026-11-20T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Retail Sales m/m",
+          "datetime": "2026-11-20T08:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Higher",
           "strength": "Unknown"
         }
       ]
@@ -765,46 +812,54 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 5,
+      "unknown_score": 13,
       "events": [
         {
-          "title": "RBA Assist Gov Hunter Speaks",
-          "datetime": "2026-11-08T17:30:00-05:00",
+          "title": "RBA Gov Bullock Speaks",
+          "datetime": "2026-11-16T17:50:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Monetary Policy Meeting Minutes",
+          "datetime": "2026-11-16T19:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Westpac Consumer Sentiment",
-          "datetime": "2026-11-09T18:30:00-05:00",
+          "title": "MI Leading Index m/m",
+          "datetime": "2026-11-17T18:30:00-05:00",
           "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Wage Price Index q/q",
+          "datetime": "2026-11-17T19:30:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Employment Change",
+          "datetime": "2026-11-18T19:30:00-05:00",
+          "impact": "High",
           "direction": "Unknown",
           "indicator_direction": "Higher",
           "strength": "Unknown"
         },
         {
-          "title": "NAB Business Confidence",
-          "datetime": "2026-11-09T19:30:00-05:00",
-          "impact": "Low",
+          "title": "Unemployment Rate",
+          "datetime": "2026-11-18T19:30:00-05:00",
+          "impact": "High",
           "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "MI Inflation Expectations",
-          "datetime": "2026-11-11T19:00:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
-          "strength": "Unknown"
-        },
-        {
-          "title": "CB Leading Index m/m",
-          "datetime": "2026-11-12T10:30:00-05:00",
-          "impact": "Low",
-          "direction": "Unknown",
-          "indicator_direction": "Neutral",
+          "indicator_direction": "Lower",
           "strength": "Unknown"
         }
       ]
@@ -814,19 +869,83 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 2,
+      "unknown_score": 13,
       "events": [
         {
-          "title": "Visitor Arrivals m/m",
-          "datetime": "2026-11-11T16:45:00-05:00",
+          "title": "BusinessNZ Services Index",
+          "datetime": "2026-11-15T16:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "BusinessNZ Manufacturing Index",
-          "datetime": "2026-11-12T16:30:00-05:00",
+          "title": "RBNZ Financial Stability Report",
+          "datetime": "2026-11-16T15:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FPI m/m",
+          "datetime": "2026-11-16T16:45:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Inflation Expectations q/q",
+          "datetime": "2026-11-16T21:00:00-05:00",
+          "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "GDT Price Index",
+          "datetime": "2026-11-17T10:50:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "PPI Input q/q",
+          "datetime": "2026-11-17T16:45:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "PPI Output q/q",
+          "datetime": "2026-11-17T16:45:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "RBNZ Gov Breman Speaks",
+          "datetime": "2026-11-18T13:00:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Trade Balance",
+          "datetime": "2026-11-18T16:45:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "Credit Card Spending y/y",
+          "datetime": "2026-11-19T21:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
