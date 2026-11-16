@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-15T23:37:38.315539+00:00",
+  "updated": "2026-11-16T03:05:52.842833+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -45,6 +45,14 @@
           "title": "Fed Chairman Warsh Speaks",
           "datetime": "2026-11-16T12:00:00-05:00",
           "impact": "High",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Hammack Speaks",
+          "datetime": "2026-11-16T14:15:00-05:00",
+          "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
@@ -308,7 +316,7 @@
         {
           "title": "FOMC Member Waller Speaks",
           "datetime": "2026-11-20T08:25:00-05:00",
-          "impact": "Medium",
+          "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
@@ -481,7 +489,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 25,
+      "unknown_score": 24,
       "events": [
         {
           "title": "Rightmove HPI m/m",
@@ -558,7 +566,7 @@
         {
           "title": "BOE Gov Bailey Speaks",
           "datetime": "2026-11-18T02:30:00-05:00",
-          "impact": "High",
+          "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
