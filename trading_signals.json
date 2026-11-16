@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-16T11:02:57.550227+00:00",
+  "updated": "2026-11-16T20:56:37.439097+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 54,
+      "unknown_score": 57,
       "events": [
         {
           "title": "FOMC Member Barr Speaks",
@@ -35,7 +35,7 @@
         },
         {
           "title": "Cleveland Fed Inflation Expectations",
-          "datetime": "2026-11-16T09:48:00-05:00",
+          "datetime": "2026-11-16T09:45:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -52,6 +52,22 @@
         {
           "title": "FOMC Member Hammack Speaks",
           "datetime": "2026-11-16T14:15:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Barkin Speaks",
+          "datetime": "2026-11-16T18:10:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Goolsbee Speaks",
+          "datetime": "2026-11-16T18:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -252,6 +268,14 @@
         {
           "title": "FOMC Member Hammack Speaks",
           "datetime": "2026-11-19T08:50:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Jefferson Speaks",
+          "datetime": "2026-11-19T09:25:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
