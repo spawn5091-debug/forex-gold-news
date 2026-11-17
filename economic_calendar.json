@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-17T12:19:08.979465+00:00",
+  "updated": "2026-11-17T21:05:59.249554+00:00",
   "count": 116,
   "events": [
     {
@@ -636,6 +636,21 @@
     },
     {
       "id": null,
+      "date": "2026-11-17T09:29:00-05:00",
+      "time": "",
+      "datetime": "2026-11-17T09:29:00-05:00",
+      "currency": "NZD",
+      "impact": "Low",
+      "title": "GDT Price Index",
+      "actual": "",
+      "forecast": "",
+      "previous": "3.0%",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-11-17T09:30:00-05:00",
       "time": "",
       "datetime": "2026-11-17T09:30:00-05:00",
@@ -675,21 +690,6 @@
       "actual": "",
       "forecast": "29",
       "previous": "29",
-      "direction": "Unknown",
-      "indicator_direction": "Neutral",
-      "strength": "Unknown"
-    },
-    {
-      "id": null,
-      "date": "2026-11-17T10:50:00-05:00",
-      "time": "",
-      "datetime": "2026-11-17T10:50:00-05:00",
-      "currency": "NZD",
-      "impact": "Low",
-      "title": "GDT Price Index",
-      "actual": "",
-      "forecast": "",
-      "previous": "3.0%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
@@ -1048,7 +1048,7 @@
       "impact": "Low",
       "title": "Pending Home Sales m/m",
       "actual": "",
-      "forecast": "-2.1%",
+      "forecast": "-1.8%",
       "previous": "-7.3%",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -1063,7 +1063,7 @@
       "impact": "Low",
       "title": "Crude Oil Inventories",
       "actual": "",
-      "forecast": "",
+      "forecast": "-0.3M",
       "previous": "4.7M",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
