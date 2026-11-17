@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-16T20:56:37.439097+00:00",
+  "updated": "2026-11-17T03:27:34.510538+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 57,
+      "unknown_score": 58,
       "events": [
         {
           "title": "FOMC Member Barr Speaks",
@@ -204,6 +204,14 @@
         {
           "title": "Crude Oil Inventories",
           "datetime": "2026-11-18T10:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Daly Speaks",
+          "datetime": "2026-11-18T12:15:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
@@ -901,7 +909,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 13,
+      "unknown_score": 15,
       "events": [
         {
           "title": "BusinessNZ Services Index",
@@ -923,6 +931,14 @@
           "title": "FPI m/m",
           "datetime": "2026-11-16T16:45:00-05:00",
           "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "RBNZ Gov Breman Speaks",
+          "datetime": "2026-11-16T19:00:00-05:00",
+          "impact": "Medium",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
