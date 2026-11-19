@@ -1,6 +1,6 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-19T08:49:02.228376+00:00",
+  "updated": "2026-11-19T17:44:15.077918+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
@@ -298,16 +298,16 @@
           "strength": "Unknown"
         },
         {
-          "title": "Mortgage Delinquencies",
-          "datetime": "2026-11-19T10:15:00-05:00",
+          "title": "Natural Gas Storage",
+          "datetime": "2026-11-19T10:30:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
           "strength": "Unknown"
         },
         {
-          "title": "Natural Gas Storage",
-          "datetime": "2026-11-19T10:30:00-05:00",
+          "title": "Mortgage Delinquencies",
+          "datetime": "2026-11-19T10:46:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",
