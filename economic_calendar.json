@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-20T05:10:52.566975+00:00",
-  "count": 116,
+  "updated": "2026-11-20T14:00:17.680626+00:00",
+  "count": 118,
   "events": [
     {
       "id": null,
@@ -420,6 +420,21 @@
       "actual": "",
       "forecast": "25.4K",
       "previous": "30.3K",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-17T02:00:00-05:00",
+      "time": "",
+      "datetime": "2026-11-17T02:00:00-05:00",
+      "currency": "GBP",
+      "impact": "Low",
+      "title": "HMRC Payrolls Change",
+      "actual": "",
+      "forecast": "9K",
+      "previous": "13K",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
@@ -1725,6 +1740,21 @@
       "actual": "",
       "forecast": "",
       "previous": "4.3%",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-20T12:00:00-05:00",
+      "time": "",
+      "datetime": "2026-11-20T12:00:00-05:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "President Trump Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"

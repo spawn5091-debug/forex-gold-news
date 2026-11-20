@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-20T05:10:52.628295+00:00",
+  "updated": "2026-11-20T14:00:17.742255+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 58,
+      "unknown_score": 60,
       "events": [
         {
           "title": "FOMC Member Barr Speaks",
@@ -370,6 +370,14 @@
           "strength": "Unknown"
         },
         {
+          "title": "President Trump Speaks",
+          "datetime": "2026-11-20T12:00:00-05:00",
+          "impact": "Medium",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
           "title": "FOMC Member Cook Speaks",
           "datetime": "2026-11-20T12:15:00-05:00",
           "impact": "Low",
@@ -521,7 +529,7 @@
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 24,
+      "unknown_score": 25,
       "events": [
         {
           "title": "Rightmove HPI m/m",
@@ -541,6 +549,14 @@
         },
         {
           "title": "Claimant Count Change",
+          "datetime": "2026-11-17T02:00:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "HMRC Payrolls Change",
           "datetime": "2026-11-17T02:00:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
