@@ -1,13 +1,13 @@
 {
   "source": "forex-gold-news",
-  "updated": "2026-11-24T20:53:44.222003+00:00",
+  "updated": "2026-11-25T03:54:18.271201+00:00",
   "currency_bias": {
     "USD": {
       "currency": "USD",
       "bias": "Neutral",
       "stronger_score": 0,
       "weaker_score": 0,
-      "unknown_score": 31,
+      "unknown_score": 32,
       "events": [
         {
           "title": "Flash Manufacturing PMI",
@@ -76,6 +76,14 @@
         {
           "title": "API Weekly Statistical Bulletin",
           "datetime": "2026-11-24T16:30:00-05:00",
+          "impact": "Low",
+          "direction": "Unknown",
+          "indicator_direction": "Neutral",
+          "strength": "Unknown"
+        },
+        {
+          "title": "FOMC Member Bowman Speaks",
+          "datetime": "2026-11-25T07:25:00-05:00",
           "impact": "Low",
           "direction": "Unknown",
           "indicator_direction": "Neutral",

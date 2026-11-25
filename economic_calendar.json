@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-24T20:53:44.179019+00:00",
-  "count": 71,
+  "updated": "2026-11-25T03:54:18.213892+00:00",
+  "count": 72,
   "events": [
     {
       "id": null,
@@ -576,6 +576,21 @@
     },
     {
       "id": null,
+      "date": "2026-11-25T07:25:00-05:00",
+      "time": "",
+      "datetime": "2026-11-25T07:25:00-05:00",
+      "currency": "USD",
+      "impact": "Low",
+      "title": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
       "date": "2026-11-25T08:30:00-05:00",
       "time": "",
       "datetime": "2026-11-25T08:30:00-05:00",
@@ -718,7 +733,7 @@
       "impact": "Low",
       "title": "Crude Oil Inventories",
       "actual": "",
-      "forecast": "",
+      "forecast": "2.0M",
       "previous": "3.4M",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
@@ -1004,7 +1019,7 @@
       "title": "Italian 10-y Bond Auction",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "4.49|1.6",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
