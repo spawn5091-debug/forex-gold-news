@@ -1,8 +1,8 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-25T22:50:01.232146+00:00",
-  "count": 73,
+  "updated": "2026-11-26T04:32:43.055084+00:00",
+  "count": 74,
   "events": [
     {
       "id": null,
@@ -855,6 +855,21 @@
       "actual": "",
       "forecast": "3.2%",
       "previous": "3.1%",
+      "direction": "Unknown",
+      "indicator_direction": "Neutral",
+      "strength": "Unknown"
+    },
+    {
+      "id": null,
+      "date": "2026-11-26T04:15:00-05:00",
+      "time": "",
+      "datetime": "2026-11-26T04:15:00-05:00",
+      "currency": "EUR",
+      "impact": "Low",
+      "title": "Euro Summit",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
       "direction": "Unknown",
       "indicator_direction": "Neutral",
       "strength": "Unknown"
