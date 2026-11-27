@@ -1,7 +1,7 @@
 {
   "source": "ForexFactory",
   "source_type": "unofficial_feed",
-  "updated": "2026-11-27T04:58:11.369302+00:00",
+  "updated": "2026-11-27T14:51:09.565203+00:00",
   "count": 74,
   "events": [
     {
@@ -1041,9 +1041,9 @@
     },
     {
       "id": null,
-      "date": "2026-11-27T05:33:00-05:00",
+      "date": "2026-11-27T05:05:00-05:00",
       "time": "",
-      "datetime": "2026-11-27T05:33:00-05:00",
+      "datetime": "2026-11-27T05:05:00-05:00",
       "currency": "EUR",
       "impact": "Low",
       "title": "Italian 10-y Bond Auction",
